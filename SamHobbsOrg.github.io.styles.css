@@ -1,3 +1,31 @@
+/* /Pages/VeniceCameraViews.razor.rz.scp.css */
+.figscontainer[b-tpbjmpkyjx] {
+	display: table;
+	}
+.figsrow[b-tpbjmpkyjx]  {
+	display: table-row;
+	}
+.figsleft[b-tpbjmpkyjx], .figsright[b-tpbjmpkyjx] {
+	display: table-cell;
+	}
+.figsmiddle[b-tpbjmpkyjx] {
+	display: table-cell;
+	text-align: center;
+}
+figure[b-tpbjmpkyjx] {
+    display: inline;
+    float: left;
+    margin-right: 1.61em;
+    margin-bottom: 1.61em;
+    max-width: 100%;
+}
+img[b-tpbjmpkyjx] {
+    display: block;
+    margin: 1.2% auto 0;
+    max-width: 98%;
+	border-style: solid;
+	border-width: 1px;
+}
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-am65a3u9oc] {
     position: relative;
