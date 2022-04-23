@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "EqXodXZBAMzNK2IaTP77ZBuz9yXQyejJOB22lI+m21h6XK9A65l21U7IVe3XK+jumCB6hs/+Bcsr0CgysrgdRQ==",
+  "dgSpecHash": "T1h3FOb65DxBIvnWuuaP4CQTKxPyfjP49pmbzGUc9XqMW+NFJ+d21wCwpfhRiGBKGuBzw/Q8yQDdYF+QTjg7VA==",
   "success": true,
   "projectFilePath": "G:\\Sam\\Projects\\GitHub\\SamHobbsOrg.github.io\\SamHobbsOrg.github.io.csproj",
   "expectedPackageFiles": [
@@ -33,7 +33,7 @@
     "C:\\Users\\sam\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\sam\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\sam\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\sam\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.3\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.3.nupkg.sha512"
+    "C:\\Users\\sam\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.4\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.4.nupkg.sha512"
   ],
   "logs": []
 }
